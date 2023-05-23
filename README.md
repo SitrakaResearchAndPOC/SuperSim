@@ -5,3 +5,4 @@
 * https://www.freecalypso.org/archive/lists.osmocom.org/openbsc/2009-December/001314.html
 * https://github.com/herlesupreeth/pysim
 * https://github.com/RangeNetworks/OpenBTS-UMTS/issues/15
+* http://vitruvianhub.co.za/Content/fordummies.pdf
